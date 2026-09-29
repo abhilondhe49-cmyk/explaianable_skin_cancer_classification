@@ -111,12 +111,6 @@ The system architecture consists of three main components:
 ### Development Tools
 - **Jupyter Notebook**: Interactive development
 
-## 👥 Contributors
-
-
-- **Punit**
-- **Sawan Kumar Yadav** 
-- **Nikhil Jain**
 
 
 
